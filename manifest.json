@@ -1,0 +1,19 @@
+{
+  "manifest_version": "1.0",
+  "org": "jaraco",
+  "repo": "jaraco.pdf",
+  "versions": [
+    {
+      "commit": "88532c45aeafee66f14d35c78bbd064ea6c40ee1",
+      "parsed_at": "2026-10-20T11:22:38.154156+00:00",
+      "filetree": "filetree/88532c45aeafee66f14d35c78bbd064ea6c40ee1.nq.gz",
+      "blobs": [
+        "blob/9567ead73521e9f5007b5dd186132c877f7259da.nq.gz",
+        "blob/2603bcde15ba33d92f0ee7b8e1bf47021746ef7c.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
